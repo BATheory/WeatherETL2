@@ -1,0 +1,15 @@
+.idea
+
+# not version log
+derby.log
+
+tests/test-data/generated
+tests/test-data/output
+tests/tmp
+.venv
+venv/*
+tests/tmp
+test/metastore_db
+metastore_db
+spark-warehouse
+.DS_Store
