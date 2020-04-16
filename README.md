@@ -1,5 +1,3 @@
-# WeatherETL2
-
 # The Assignment
 Convert the weather data into parquet format. Set the raw group to appropriate value you see fit for this data. 
 The converted data should be queryable to answer the following question. 
